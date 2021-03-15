@@ -13,7 +13,6 @@ AbstractBaseUser in the `models.py` file of the app.
     * `AUTH_USER_MODEL = 'app_accounts.User'` Should also be added to the settings file  
     to set the custom user model as the project standard.
     * run `python manage.py makemigrations` and `python manage.py migrate` to create the models in the database.
-  
-####Steps to be taken / Possible improvements
+
  
 
