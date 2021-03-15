@@ -1,6 +1,3 @@
-#####Following this tutorial:
-https://testdriven.io/blog/django-custom-user-model/
-
 ####Project goal:
 To create a reusable app that extends from AbstractBaseUser and uses email as the identifier.  
 
